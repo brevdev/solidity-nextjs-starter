@@ -1,3 +1,9 @@
+# Simplified README with Brev.dev
+
+Deploy the smart contract: `npx hardhat node`
+Then in a new terminal window, run: `npx hardhat run scripts/deploy.js --network localhost`
+Then in a new terminal window, run: `npm run dev`, and go to localhost:3000 or 3000-yourworkspace.sh
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftomhirst%2Fsolidity-nextjs-starter)
 
 # A full stack dApp starter built on Ethereum (Solidity) with Next.js (React)
